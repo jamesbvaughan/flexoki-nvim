@@ -30,7 +30,7 @@ require('packer').startup(function(use)
 end)
 ```
 
-```
+```lua
 -- Set colorscheme after options
 vim.cmd('colorscheme flexoki')
 ```
